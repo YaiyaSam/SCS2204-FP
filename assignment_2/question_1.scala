@@ -1,5 +1,3 @@
-import com.sun.org.apache.xpath.internal.functions.FuncFalse
-
 object question_1 extends App{
 
   def prime(num: Int, x: Int = 2) : Unit = {
